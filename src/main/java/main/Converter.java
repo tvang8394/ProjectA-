@@ -66,6 +66,7 @@ public class Converter {
 	//method for collection
 	public static int collectUnit() {
 		Scanner scanner = new Scanner(System.in);
+		//learn how to close scanner;
 		return scanner.nextInt();
 		
 	}
